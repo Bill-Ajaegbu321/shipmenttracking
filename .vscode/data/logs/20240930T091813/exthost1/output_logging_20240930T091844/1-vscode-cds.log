@@ -1,0 +1,20 @@
+[2024-09-30T09:18:49.758Z] Activating SAPSE.vscode-cds...
+[2024-09-30T09:18:50.606Z] starting lsp '/extbin/local/openvscode-server/extensions/vscode-cds-8.2.0/node_modules/@sap/cds-lsp'...
+[2024-09-30T09:18:50.812Z] finished starting lsp '/extbin/local/openvscode-server/extensions/vscode-cds-8.2.0/node_modules/@sap/cds-lsp' in 206ms
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected string in JSON at position 665
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected string in JSON at position 671
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected string in JSON at position 673
+Error parsing '/home/user/ShipmentTracking/package.json': Expected ',' or '}' after property value in JSON at position 689
+Error parsing '/home/user/ShipmentTracking/package.json': Expected ',' or '}' after property value in JSON at position 678
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected token ';', ..."pared" :fa;
+        "... is not valid JSON
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected token '
+', ..."red" :fals
+        ""... is not valid JSON
+Error parsing '/home/user/ShipmentTracking/package.json': Expected ',' or '}' after property value in JSON at position 671
+Error parsing '/home/user/ShipmentTracking/package.json': Expected ':' after property name in JSON at position 619
+Error parsing '/home/user/ShipmentTracking/package.json': Expected ':' after property name in JSON at position 621
+Error parsing '/home/user/ShipmentTracking/package.json': Expected ':' after property name in JSON at position 623
+Error parsing '/home/user/ShipmentTracking/package.json': Expected ',' or '}' after property value in JSON at position 629
+Error parsing '/home/user/ShipmentTracking/package.json': Expected ',' or '}' after property value in JSON at position 627
+Error parsing '/home/user/ShipmentTracking/package.json': Expected ',' or '}' after property value in JSON at position 1030

@@ -1,0 +1,333 @@
+
+registry=https://registry.npmjs.org
+@bas-dev:registry=https://common.repositories.cloud.sap/artifactory/api/npm/devx-npm-live/
+//common.repositories.cloud.sap/artifactory/api/npm/devx-npm-live/:_authToken=<REDACTED>
+//common.repositories.cloud.sap/artifactory/api/npm/devx-npm-live/:always-auth=true
+@sap-buildcode:registry=https://common.repositories.cloud.sap/artifactory/api/npm/deploy.releases.npm/
+//common.repositories.cloud.sap/artifactory/api/npm/deploy.releases.npm/:_authToken=<REDACTED>
+//common.repositories.cloud.sap/artifactory/api/npm/deploy.releases.npm/:always-auth=true
+@devx-wing:registry=https://common.repositories.cloud.sap/artifactory/api/npm/devx-npm-live/
+@sap-cds:registry=https://common.repositories.cloud.sap/artifactory/api/npm/deploy.releases.npm/
+@sap-lcnc:registry=https://common.repositories.cloud.sap/artifactory/api/npm/deploy.releases.npm/
+@ext-dptvsc-npm-vscode:registry=https://common.repositories.cloud.sap/artifactory/api/npm/deploy.releases.npm/
+@ext-dptvsc-npm-dev:registry=https://common.repositories.cloud.sap/artifactory/api/npm/deploy.releases.npm/
+@sap-ux-rel:registry=https://common.repositories.cloud.sap/artifactory/api/npm/deploy.milestones.npm/
+//common.repositories.cloud.sap/artifactory/api/npm/deploy.milestones.npm/:_authToken=<REDACTED>
+//common.repositories.cloud.sap/artifactory/api/npm/deploy.milestones.npm/:always-auth=true
+
+Total <npm configuration> time: 0.01 seconds
+pnpm add -g --prefer-offline --global-dir /managed-content/globals/pnpm --global-bin-dir /managed-content/globals/pnpm/bin --config.updateNotifier=false --loglevel=info --cache-dir /managed-content/pnpm/cache --store-dir /managed-content/pnpm/store --registry https://registry.npmjs.org @bas-dev/bas-cli@1.2.0 yo@4.3.1 @bas-dev/generator-extensibility-sub@1.0.22 @sap/cds-dk@8.1.2
+Total <install CLI modules> time: 0.00 seconds
+FW WARNING: cache manifest path: /managed-content/vscode/soft-links/manifest.json does not exist,
+         *.vsix cache will be disabled.
+VSCode cache - Excludes(skipped): 0
+VSCode cache - Includes: 53
+VSCode cache - hits: 0
+VSCode cache - misses: 53
+Total <install VSCode extension - cache> time: 0.02 seconds
+Progress: resolved 1, reused 0, downloaded 0, added 0
+Progress: resolved 4, reused 0, downloaded 0, added 0
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/deps-validation/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/cf-tools/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/expose-router-ports/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/app-studio-toolkit-themes/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/vscode-wing-cap-guided-development/- on attempt 0.
+Progress: resolved 5, reused 0, downloaded 0, added 0
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/sqltools-driver-sqlite/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@devx-wing/vscode-redhat-java/- on attempt 0.
+Progress: resolved 11, reused 0, downloaded 4, added 0
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/sqltools/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/vscode-wing-cap-run/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/vscode-gerrit/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/fs-usage-popup/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.milestones.npm/@sap-ux-rel/sap-ux-annotation-modeler-extension/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@sap-lcnc/csdl-modeler/- on attempt 0.
+Progress: resolved 19, reused 0, downloaded 12, added 0
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/git-history/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/rest-client/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/deps-upgrade-tool/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/git-lens/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@sap-lcnc/simplified-git/- on attempt 0.
+Progress: resolved 26, reused 0, downloaded 20, added 0
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/task-explorer/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/vscode-mta-editor/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@sap-cds/cds-editor/- on attempt 0.
+Progress: resolved 46, reused 0, downloaded 40, added 0
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/npm-task-contributor/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/vscode-wing-storyboard/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/guided-answers/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/vscode-w5g/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/app-studio-toolkit/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.milestones.npm/@sap-ux-rel/sap-ux-help-extension/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/vscode-wing-service-center/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/xml-tools/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@sap-lcnc/run-config/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@sap-lcnc/guided-development/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/yeoman-ui/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@devx-wing/vscode-java-run/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@devx-wing/vscode-java-test/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@devx-wing/vscode-java-debug/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@ext-dptvsc-npm-vscode/cicd-extension/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/quick-access/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/vscode-yaml/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@sap-buildcode/joule/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/code-snippet/- on attempt 0.
+Progress: resolved 126, reused 0, downloaded 108, added 0
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/vscode-bas-extensibility/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/welcome-screen/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@bas-dev/vscode-bas-fiori-tools/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.milestones.npm/@sap-ux-rel/sap-ux-application-modeler-extension/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@devx-wing/vscode-java-dependency/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.milestones.npm/@sap-ux-rel/sap-ux-service-modeler-extension/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@ext-dptvsc-npm-vscode/lcap-task-contrib/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@sap-lcnc/dpt-guided-development-kit/- on attempt 0.
+Signature validated GUN common.repositories.cloud.sap/api/npm/deploy.releases.npm/@devx-wing/vscode-spring-boot-tools/- on attempt 0.
+Progress: resolved 278, reused 0, downloaded 250, added 0
+Progress: resolved 477, reused 0, downloaded 433, added 0
+Progress: resolved 704, reused 0, downloaded 651, added 0
+ WARN  17 deprecated subdependencies found: @npmcli/move-file@1.1.2, @npmcli/move-file@2.0.1, are-we-there-yet@1.1.7, are-we-there-yet@2.0.0, are-we-there-yet@3.0.1, debuglog@1.0.1, gauge@1.2.7, gauge@3.0.2, gauge@4.0.4, glob@7.2.3, glob@8.1.0, inflight@1.0.6, npmlog@2.0.4, npmlog@5.0.1, npmlog@6.0.2, readdir-scoped-modules@1.1.0, rimraf@3.0.2
+Packages: +833
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Total <install VSCode extension - download> time: 21.43 seconds
+Total <install VSCode extensions - total> time: 21.57 seconds
+Progress: resolved 833, reused 0, downloaded 833, added 352
+Progress: resolved 833, reused 0, downloaded 833, added 833, done
+.../node_modules/spawn-sync postinstall$ node postinstall
+.../core-js@3.38.1/node_modules/core-js postinstall$ node -e "try{require('./postinstall')}catch(e){}"
+.../node_modules/better-sqlite3 install$ prebuild-install || node-gyp rebuild --release
+.../node_modules/@sap/hdi-deploy postinstall$ node lib/check_client.js
+.../node_modules/spawn-sync postinstall: Done
+.../core-js@3.38.1/node_modules/core-js postinstall: Thank you for using core-js ( https://github.com/zloirock/core-js ) for polyfilling JavaScript standard library!
+.../core-js@3.38.1/node_modules/core-js postinstall: The project needs your help! Please consider supporting core-js:
+.../core-js@3.38.1/node_modules/core-js postinstall: > https://opencollective.com/core-js 
+.../core-js@3.38.1/node_modules/core-js postinstall: > https://patreon.com/zloirock 
+.../core-js@3.38.1/node_modules/core-js postinstall: > bitcoin: bc1qlea7544qtsmj2rayg0lthvza9fau63ux0fstcz 
+.../core-js@3.38.1/node_modules/core-js postinstall: I highly recommend reading this: https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md 
+.../core-js@3.38.1/node_modules/core-js postinstall: > https://boosty.to/zloirock 
+.../core-js@3.38.1/node_modules/core-js postinstall: Done
+.../node_modules/@sap/hdi-deploy postinstall: Cannot find module '@sap/hana-client'
+.../node_modules/@sap/hdi-deploy postinstall: Require stack:
+.../node_modules/@sap/hdi-deploy postinstall: - /managed-content/globals/pnpm/5/.pnpm/@sap+hdi-deploy@5.2.3_hdb@0.19.9/node_modules/@sap/hdi-deploy/lib/check_client.js
+.../node_modules/@sap/hdi-deploy postinstall: postinstall @sap/hdi-deploy@5.2.3: hdb client peer dependency is installed
+.../node_modules/@sap/hdi-deploy postinstall: postinstall @sap/hdi-deploy@5.2.3: success
+.../node_modules/@sap/hdi-deploy postinstall: Done
+.../node_modules/better-sqlite3 install: prebuild-install info begin Prebuild-install version 7.1.2
+.../node_modules/better-sqlite3 install: prebuild-install info looking for local prebuild @ prebuilds/better-sqlite3-v11.3.0-node-v115-linux-x64.tar.gz
+.../node_modules/better-sqlite3 install: prebuild-install info looking for cached prebuild @ /home/user/.npm/_prebuilds/8030c4-better-sqlite3-v11.3.0-node-v115-linux-x64.tar.gz
+.../node_modules/better-sqlite3 install: prebuild-install http request GET https://github.com/WiseLibs/better-sqlite3/releases/download/v11.3.0/better-sqlite3-v11.3.0-node-v115-linux-x64.tar.gz
+.../node_modules/better-sqlite3 install: prebuild-install http 200 https://github.com/WiseLibs/better-sqlite3/releases/download/v11.3.0/better-sqlite3-v11.3.0-node-v115-linux-x64.tar.gz
+.../node_modules/better-sqlite3 install: prebuild-install info downloading to @ /home/user/.npm/_prebuilds/8030c4-better-sqlite3-v11.3.0-node-v115-linux-x64.tar.gz.1747-eade685e63764.tmp
+.../node_modules/better-sqlite3 install: prebuild-install info renaming to @ /home/user/.npm/_prebuilds/8030c4-better-sqlite3-v11.3.0-node-v115-linux-x64.tar.gz
+.../node_modules/better-sqlite3 install: prebuild-install info unpacking @ /home/user/.npm/_prebuilds/8030c4-better-sqlite3-v11.3.0-node-v115-linux-x64.tar.gz
+.../node_modules/better-sqlite3 install: prebuild-install info unpack resolved to /managed-content/globals/pnpm/5/.pnpm/better-sqlite3@11.3.0/node_modules/better-sqlite3/build/Release/better_sqlite3.node
+.../node_modules/better-sqlite3 install: prebuild-install info unpack required /managed-content/globals/pnpm/5/.pnpm/better-sqlite3@11.3.0/node_modules/better-sqlite3/build/Release/better_sqlite3.node successfully
+.../node_modules/better-sqlite3 install: prebuild-install info install Successfully installed prebuilt binary!
+.../node_modules/better-sqlite3 install: Done
+.../node_modules/yo postinstall$ yodoctor
+.../node_modules/yo postinstall: Yeoman Doctor
+.../node_modules/yo postinstall: Running sanity checks on your system
+.../node_modules/yo postinstall: ✔ No .bowerrc file in home directory
+.../node_modules/yo postinstall: ✔ Global configuration file is valid
+.../node_modules/yo postinstall: ✖ NODE_PATH matches the npm root
+.../node_modules/yo postinstall: Unable to find the npm root, something went wrong.
+.../node_modules/yo postinstall: Try to execute npm -g root --silent on your command-line
+.../node_modules/yo postinstall: ✔ No .yo-rc.json file in home directory
+.../node_modules/yo postinstall: ✔ Node.js version
+.../node_modules/yo postinstall: ✔ npm version
+.../node_modules/yo postinstall: ✖ yo version
+.../node_modules/yo postinstall: Your yo version is outdated.
+.../node_modules/yo postinstall: Upgrade to the latest version by running:
+.../node_modules/yo postinstall: npm install -g yo@latest
+.../node_modules/yo postinstall: Found potential issues on your machine :(
+.../node_modules/yo postinstall: Done
+ WARN  @bas-dev/generator-extensibility-sub has no binaries
+
+/managed-content/globals/pnpm/5:
++ @bas-dev/bas-cli 1.2.0
++ @bas-dev/generator-extensibility-sub 1.0.22
++ @sap/cds-dk 8.1.2 (8.2.2 is available)
++ yo 4.3.1 (5.0.0 is available)
+
+Done in 24.4s
+Total <install global npm modules> time: 24.49 seconds
+pnpm add -g --prefer-offline --global-dir /managed-content/globals/pnpm --global-bin-dir /managed-content/globals/pnpm/bin --config.updateNotifier=false --loglevel=info --cache-dir /managed-content/pnpm/cache --store-dir /managed-content/pnpm/store --registry https://registry.npmjs.org @bas-dev/generator-routing-config@1.3.6 @bas-dev/generator-basic-multitarget-application@1.1.8-20230619082239 @bas-dev/generator-datasource-based-project@0.3.0 @sap/generator-cap-project@1.7.12 @ext-dptvsc-npm-dev/generator-cicd@1.25.0-1 @sap/generator-fiori@1.15.0
+Progress: resolved 0, reused 1, downloaded 0, added 0
+Progress: resolved 494, reused 476, downloaded 13, added 0
+Progress: resolved 876, reused 726, downloaded 143, added 0
+Progress: resolved 1101, reused 833, downloaded 264, added 0
+ WARN  25 deprecated subdependencies found: @npmcli/move-file@1.1.2, @npmcli/move-file@2.0.1, are-we-there-yet@1.1.7, are-we-there-yet@2.0.0, are-we-there-yet@3.0.1, date-format@2.1.0, debuglog@1.0.1, gauge@1.2.7, gauge@3.0.2, gauge@4.0.4, glob@7.2.3, glob@8.1.0, inflight@1.0.6, npmlog@2.0.4, npmlog@5.0.1, npmlog@6.0.2, read-package-json@6.0.4, readdir-scoped-modules@1.1.0, resolve-url@0.2.1, rimraf@2.7.1, rimraf@3.0.2, source-map-resolve@0.5.3, source-map-url@0.4.1, streamroller@2.2.3, urix@0.1.0
+Packages: +299 -1
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-
+Progress: resolved 1130, reused 833, downloaded 297, added 299, done
+.pnpm/ejs@2.7.4/node_modules/ejs postinstall$ node ./postinstall.js
+.pnpm/keytar@7.9.0/node_modules/keytar install$ prebuild-install || npm run build
+.pnpm/ejs@2.7.4/node_modules/ejs postinstall: Thank you for installing [35mEJS[0m: built with the [32mJake[0m JavaScript build tool ([32mhttps://jakejs.com/[0m)
+.pnpm/ejs@2.7.4/node_modules/ejs postinstall: Done
+.pnpm/keytar@7.9.0/node_modules/keytar install: prebuild-install info begin Prebuild-install version 7.1.2
+.pnpm/keytar@7.9.0/node_modules/keytar install: prebuild-install info looking for local prebuild @ prebuilds/keytar-v7.9.0-napi-v3-linux-x64.tar.gz
+.pnpm/keytar@7.9.0/node_modules/keytar install: prebuild-install info looking for cached prebuild @ /home/user/.npm/_prebuilds/9f1400-keytar-v7.9.0-napi-v3-linux-x64.tar.gz
+.pnpm/keytar@7.9.0/node_modules/keytar install: prebuild-install http request GET https://github.com/atom/node-keytar/releases/download/v7.9.0/keytar-v7.9.0-napi-v3-linux-x64.tar.gz
+.pnpm/keytar@7.9.0/node_modules/keytar install: prebuild-install http 200 https://github.com/atom/node-keytar/releases/download/v7.9.0/keytar-v7.9.0-napi-v3-linux-x64.tar.gz
+.pnpm/keytar@7.9.0/node_modules/keytar install: prebuild-install info downloading to @ /home/user/.npm/_prebuilds/9f1400-keytar-v7.9.0-napi-v3-linux-x64.tar.gz.1850-d1e3b4cd74d5f.tmp
+.pnpm/keytar@7.9.0/node_modules/keytar install: prebuild-install info renaming to @ /home/user/.npm/_prebuilds/9f1400-keytar-v7.9.0-napi-v3-linux-x64.tar.gz
+.pnpm/keytar@7.9.0/node_modules/keytar install: prebuild-install info unpacking @ /home/user/.npm/_prebuilds/9f1400-keytar-v7.9.0-napi-v3-linux-x64.tar.gz
+.pnpm/keytar@7.9.0/node_modules/keytar install: prebuild-install info unpack resolved to /managed-content/globals/pnpm/5/.pnpm/keytar@7.9.0/node_modules/keytar/build/Release/keytar.node
+.pnpm/keytar@7.9.0/node_modules/keytar install: prebuild-install info install Successfully installed prebuilt binary!
+.pnpm/keytar@7.9.0/node_modules/keytar install: Done
+ WARN  @bas-dev/generator-routing-config has no binaries
+ WARN  @bas-dev/generator-basic-multitarget-application has no binaries
+ WARN  @bas-dev/generator-datasource-based-project has no binaries
+ WARN  @sap/generator-cap-project has no binaries
+ WARN  @ext-dptvsc-npm-dev/generator-cicd has no binaries
+ WARN  @sap/generator-fiori has no binaries
+
+/managed-content/globals/pnpm/5:
++ @bas-dev/generator-basic-multitarget-application 1.1.8-20230619082239
++ @bas-dev/generator-datasource-based-project 0.3.0 (0.4.0 is available)
++ @bas-dev/generator-routing-config 1.3.6 (1.3.7 is available)
++ @ext-dptvsc-npm-dev/generator-cicd 1.25.0-1 (1.32.0-1 is available)
++ @sap/generator-cap-project 1.7.12 (1.7.13 is available)
++ @sap/generator-fiori 1.15.0
+
+Done in 4.8s
+Total <install generators> time: 4.98 seconds
+Installation summary of Yeoman generators, global npm packages, VS Code extensions, and CLIs:
+Installation summary of the "basic-tools/basic-tools" extension:
+    The @bas-dev/app-studio-toolkit-themes VS Code extension was installed successfully.
+    The @bas-dev/app-studio-toolkit-themes VS Code extension signature was validated successfully.
+    The @bas-dev/expose-router-ports VS Code extension was installed successfully.
+    The @bas-dev/expose-router-ports VS Code extension signature was validated successfully.
+    The @bas-dev/deps-validation VS Code extension was installed successfully.
+    The @bas-dev/deps-validation VS Code extension signature was validated successfully.
+    The @bas-dev/fs-usage-popup VS Code extension was installed successfully.
+    The @bas-dev/fs-usage-popup VS Code extension signature was validated successfully.
+    The @bas-dev/vscode-gerrit VS Code extension was installed successfully.
+    The @bas-dev/vscode-gerrit VS Code extension signature was validated successfully.
+    The @bas-dev/git-history VS Code extension was installed successfully.
+    The @bas-dev/git-history VS Code extension signature was validated successfully.
+    The @bas-dev/cf-tools VS Code extension was installed successfully.
+    The @bas-dev/cf-tools VS Code extension signature was validated successfully.
+    The @bas-dev/deps-upgrade-tool VS Code extension was installed successfully.
+    The @bas-dev/deps-upgrade-tool VS Code extension signature was validated successfully.
+    The @bas-dev/npm-task-contributor VS Code extension was installed successfully.
+    The @bas-dev/npm-task-contributor VS Code extension signature was validated successfully.
+    The @bas-dev/rest-client VS Code extension was installed successfully.
+    The @bas-dev/rest-client VS Code extension signature was validated successfully.
+    The @bas-dev/xml-tools VS Code extension was installed successfully.
+    The @bas-dev/xml-tools VS Code extension signature was validated successfully.
+    The @bas-dev/guided-answers VS Code extension was installed successfully.
+    The @bas-dev/guided-answers VS Code extension signature was validated successfully.
+    The @bas-dev/git-lens VS Code extension was installed successfully.
+    The @bas-dev/git-lens VS Code extension signature was validated successfully.
+    The @bas-dev/quick-access VS Code extension was installed successfully.
+    The @bas-dev/quick-access VS Code extension signature was validated successfully.
+    The @bas-dev/welcome-screen VS Code extension was installed successfully.
+    The @bas-dev/welcome-screen VS Code extension signature was validated successfully.
+    The @bas-dev/task-explorer VS Code extension was installed successfully.
+    The @bas-dev/task-explorer VS Code extension signature was validated successfully.
+    The @bas-dev/app-studio-toolkit VS Code extension was installed successfully.
+    The @bas-dev/app-studio-toolkit VS Code extension signature was validated successfully.
+    The @bas-dev/code-snippet VS Code extension was installed successfully.
+    The @bas-dev/code-snippet VS Code extension signature was validated successfully.
+    The @bas-dev/yeoman-ui VS Code extension was installed successfully.
+    The @bas-dev/yeoman-ui VS Code extension signature was validated successfully.
+    The @bas-dev/vscode-yaml VS Code extension was installed successfully.
+    The @bas-dev/vscode-yaml VS Code extension signature was validated successfully.
+    The @bas-dev/bas-cli node module was installed successfully.
+    The yo node module was installed successfully.
+Installation summary of the "cds-tools/cds-tools" extension:
+    The @bas-dev/sqltools-driver-sqlite VS Code extension was installed successfully.
+    The @bas-dev/sqltools-driver-sqlite VS Code extension signature was validated successfully.
+    The @bas-dev/vscode-wing-cap-run VS Code extension was installed successfully.
+    The @bas-dev/vscode-wing-cap-run VS Code extension signature was validated successfully.
+    The @bas-dev/sqltools VS Code extension was installed successfully.
+    The @bas-dev/sqltools VS Code extension signature was validated successfully.
+    The @bas-dev/vscode-wing-cap-guided-development VS Code extension was installed successfully.
+    The @bas-dev/vscode-wing-cap-guided-development VS Code extension signature was validated successfully.
+Installation summary of the "ext-mckbj/development-productivity-tools" extension (created by "SAP(MOB-MDE-MDK)"):
+    The @sap-lcnc/simplified-git VS Code extension was installed successfully.
+    The @sap-lcnc/simplified-git VS Code extension signature was validated successfully.
+    The @ext-dptvsc-npm-vscode/cicd-extension VS Code extension was installed successfully.
+    The @ext-dptvsc-npm-vscode/cicd-extension VS Code extension signature was validated successfully.
+    The @sap-lcnc/csdl-modeler VS Code extension was installed successfully.
+    The @sap-lcnc/csdl-modeler VS Code extension signature was validated successfully.
+    The @ext-dptvsc-npm-vscode/lcap-task-contrib VS Code extension was installed successfully.
+    The @ext-dptvsc-npm-vscode/lcap-task-contrib VS Code extension signature was validated successfully.
+    The @sap-lcnc/dpt-guided-development-kit VS Code extension was installed successfully.
+    The @sap-lcnc/dpt-guided-development-kit VS Code extension signature was validated successfully.
+    The @sap-lcnc/guided-development VS Code extension was installed successfully.
+    The @sap-lcnc/guided-development VS Code extension signature was validated successfully.
+    The @sap-lcnc/run-config VS Code extension was installed successfully.
+    The @sap-lcnc/run-config VS Code extension signature was validated successfully.
+    The @ext-dptvsc-npm-dev/generator-cicd node module was installed successfully.
+Installation summary of the "mta-tools/mta-tools" extension:
+    The @bas-dev/vscode-mta-editor VS Code extension was installed successfully.
+    The @bas-dev/vscode-mta-editor VS Code extension signature was validated successfully.
+    The @sap_oss/vscode-mta-tools VS Code extension was installed successfully.
+    The @bas-dev/generator-basic-multitarget-application node module was installed successfully.
+Installation summary of the "java-dev-tools/java-dev-tools" extension:
+    The @devx-wing/vscode-java-run VS Code extension was installed successfully.
+    The @devx-wing/vscode-java-run VS Code extension signature was validated successfully.
+    The @devx-wing/vscode-java-dependency VS Code extension was installed successfully.
+    The @devx-wing/vscode-java-dependency VS Code extension signature was validated successfully.
+    The @devx-wing/vscode-java-test VS Code extension was installed successfully.
+    The @devx-wing/vscode-java-test VS Code extension signature was validated successfully.
+    The @devx-wing/vscode-java-debug VS Code extension was installed successfully.
+    The @devx-wing/vscode-java-debug VS Code extension signature was validated successfully.
+    The @devx-wing/vscode-redhat-java VS Code extension was installed successfully.
+    The @devx-wing/vscode-redhat-java VS Code extension signature was validated successfully.
+    The @devx-wing/vscode-spring-boot-tools VS Code extension was installed successfully.
+    The @devx-wing/vscode-spring-boot-tools VS Code extension signature was validated successfully.
+Installation summary of the "fiori-tools/fiori-tools" extension:
+    The @bas-dev/vscode-bas-fiori-tools VS Code extension was installed successfully.
+    The @bas-dev/vscode-bas-fiori-tools VS Code extension signature was validated successfully.
+    The @bas-dev/generator-routing-config node module was installed successfully.
+Installation summary of the "storyboard/storyboard" extension:
+    The @bas-dev/vscode-wing-storyboard VS Code extension was installed successfully.
+    The @bas-dev/vscode-wing-storyboard VS Code extension signature was validated successfully.
+Installation summary of the "w5g-wing/w5g-wing" extension:
+    The @bas-dev/vscode-bas-extensibility VS Code extension was installed successfully.
+    The @bas-dev/vscode-bas-extensibility VS Code extension signature was validated successfully.
+    The @bas-dev/vscode-w5g VS Code extension was installed successfully.
+    The @bas-dev/vscode-w5g VS Code extension signature was validated successfully.
+    The @bas-dev/generator-extensibility-sub node module was installed successfully.
+Installation summary of the "joule/joule" extension:
+    The @sap-buildcode/joule VS Code extension was installed successfully.
+    The @sap-buildcode/joule VS Code extension signature was validated successfully.
+Installation summary of the "ext-cdstoolsbas/cds-bas-extension" extension (created by "SAP(HAN-WDE-EDT-CDS)"):
+    The @sap/vscode-cds VS Code extension was installed successfully.
+    The @sap/cds-dk node module was installed successfully.
+    The @sap/generator-cap-project node module was installed successfully.
+Installation summary of the "ext-sap-ux/sap-ux-all-extensions" extension (created by "SAP(CA-UX-IDE)"):
+    The @sap-ux-rel/sap-ux-annotation-modeler-extension VS Code extension was installed successfully.
+    The @sap-ux-rel/sap-ux-annotation-modeler-extension VS Code extension signature was validated successfully.
+    The @sap-ux-rel/sap-ux-service-modeler-extension VS Code extension was installed successfully.
+    The @sap-ux-rel/sap-ux-service-modeler-extension VS Code extension signature was validated successfully.
+    The @ui5-language-assistant/vscode-ui5-language-assistant-bas-ext VS Code extension was installed successfully.
+    The @sap-ux-rel/sap-ux-application-modeler-extension VS Code extension was installed successfully.
+    The @sap-ux-rel/sap-ux-application-modeler-extension VS Code extension signature was validated successfully.
+    The @sap-ux-rel/sap-ux-help-extension VS Code extension was installed successfully.
+    The @sap-ux-rel/sap-ux-help-extension VS Code extension signature was validated successfully.
+    The @sap/generator-fiori node module was installed successfully.
+Installation summary of the "ext-mckbj/cds-modeller" extension (created by "SAP(MOB-MDE-MBG)"):
+    The @sap-cds/cds-editor VS Code extension was installed successfully.
+    The @sap-cds/cds-editor VS Code extension signature was validated successfully.
+Installation summary of the "vscode-service-center/vscode-service-center" extension:
+    The @bas-dev/vscode-wing-service-center VS Code extension was installed successfully.
+    The @bas-dev/vscode-wing-service-center VS Code extension signature was validated successfully.
+    The @bas-dev/generator-datasource-based-project node module was installed successfully.
+Installation summary of the "ext-hana-tools/hana-runtime-tools" extension (created by "SAP(HAN-BAS)"):
+    The @sap/hana-database-explorer VS Code extension was installed successfully.
+Finished installing App Studio simple extensions components!
+Total install time: 29887 milliseconds
+
+
+START INSTALLATION OF NON SAP EXTENSIONS
+
+registry=https://registry.npmjs.org
+
+Total <npm configuration> time: 0.01 seconds
+Total <install CLI modules> time: 0.00 seconds
+Total <install global npm modules> time: 0.00 seconds
+Total <download *.vsix> time: 0.01 seconds
+Total <install generators> time: 0.00 seconds

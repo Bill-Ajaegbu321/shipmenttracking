@@ -1,0 +1,22 @@
+    force ../../../home/user/ShipmentTracking/package.json
+   create ../../../home/user/ShipmentTracking/app/trackingrecord/package.json
+   create ../../../home/user/ShipmentTracking/app/trackingrecord/ui5.yaml
+   create ../../../home/user/ShipmentTracking/app/trackingrecord/webapp/Component.js
+   create ../../../home/user/ShipmentTracking/app/trackingrecord/webapp/index.html
+   create ../../../home/user/ShipmentTracking/app/trackingrecord/webapp/manifest.json
+   create ../../../home/user/ShipmentTracking/app/trackingrecord/webapp/i18n/i18n.properties
+   create ../../../home/user/ShipmentTracking/app/trackingrecord/annotations.cds
+   create ../../../home/user/ShipmentTracking/app/services.cds
+   create ../../../home/user/ShipmentTracking/app/trackingrecord/webapp/test/flpSandbox.html
+   create ../../../home/user/ShipmentTracking/app/trackingrecord/webapp/test/testsuite.qunit.html
+   create ../../../home/user/ShipmentTracking/app/trackingrecord/webapp/test/testsuite.qunit.js
+   create ../../../home/user/ShipmentTracking/app/trackingrecord/webapp/test/integration/opaTests.qunit.html
+   create ../../../home/user/ShipmentTracking/app/trackingrecord/webapp/test/integration/opaTests.qunit.js
+   create ../../../home/user/ShipmentTracking/app/trackingrecord/webapp/test/integration/pages/TrackingRecordsList.js
+   create ../../../home/user/ShipmentTracking/app/trackingrecord/webapp/test/integration/pages/TrackingRecordsObjectPage.js
+   create ../../../home/user/ShipmentTracking/app/trackingrecord/webapp/test/integration/FirstJourney.js
+   create ../../../home/user/ShipmentTracking/app/trackingrecord/README.md
+          
+No change to package.json was detected. No package manager install will be executed.
+The files have been generated.
+    force ../../../home/user/ShipmentTracking/app/trackingrecord/annotations.cds

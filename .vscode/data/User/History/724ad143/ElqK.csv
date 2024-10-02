@@ -1,0 +1,5 @@
+ID;Method;Description
+1;Express Air Freight;Express
+2;Air Freight;Standard Air
+3;Sea Freight FCL;Full Container Load
+4;Sea Freight LCL;Less than Container Load

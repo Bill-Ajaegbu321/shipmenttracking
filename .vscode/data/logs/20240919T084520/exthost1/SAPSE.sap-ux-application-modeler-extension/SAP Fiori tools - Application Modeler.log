@@ -1,0 +1,100 @@
+2024-09-19 08:52:46.076 [error] Error while importing '/home/user/ShipmentTracking/app/trackingrecord' "Module '@sap/ux-specification' not installed in project '/home/user/ShipmentTracking'.\n" +
+  'Error: Path to module not found.'
+2024-09-19 09:00:19.005 [error] Error generating schemas project '/home/user/ShipmentTracking'. Error was:  "Error: Error while reading CAP service metadata. Path: '/home/user/ShipmentTracking', service uri: '/service/shipmenttrackingService/', error: 'CDS compilation failed\n" +
+  'ShipmentTracking/srv/service.cds:7:45-47: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.TrackingRecords”)\n' +
+  'ShipmentTracking/srv/service.cds:11:37-39: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Vendors”)\n' +
+  'ShipmentTracking/srv/service.cds:14:42-44: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.FreightTypes”)\n' +
+  'ShipmentTracking/srv/service.cds:17:45-47: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.ShipmentMethods”)\n' +
+  'ShipmentTracking/srv/service.cds:20:40-42: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Containers”)\n' +
+  'ShipmentTracking/srv/service.cds:23:38-40: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Invoices”)\n' +
+  'ShipmentTracking/srv/service.cds:26:45-47: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.FreightInvoices”)\n' +
+  "ShipmentTracking/srv/service.cds:29:35-37: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Ports”)'}"
+2024-09-19 09:00:19.005 [error] Error writing config to manifest and changes for /home/user/ShipmentTracking. Error was:  "Error: Error: Error while reading CAP service metadata. Path: '/home/user/ShipmentTracking', service uri: '/service/shipmenttrackingService/', error: 'CDS compilation failed\n" +
+  'ShipmentTracking/srv/service.cds:7:45-47: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.TrackingRecords”)\n' +
+  'ShipmentTracking/srv/service.cds:11:37-39: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Vendors”)\n' +
+  'ShipmentTracking/srv/service.cds:14:42-44: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.FreightTypes”)\n' +
+  'ShipmentTracking/srv/service.cds:17:45-47: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.ShipmentMethods”)\n' +
+  'ShipmentTracking/srv/service.cds:20:40-42: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Containers”)\n' +
+  'ShipmentTracking/srv/service.cds:23:38-40: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Invoices”)\n' +
+  'ShipmentTracking/srv/service.cds:26:45-47: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.FreightInvoices”)\n' +
+  "ShipmentTracking/srv/service.cds:29:35-37: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Ports”)'}"
+2024-09-19 09:00:27.878 [error] Error generating schemas project '/home/user/ShipmentTracking'. Error was:  "Error: Error while reading CAP service metadata. Path: '/home/user/ShipmentTracking', service uri: '/service/shipmenttrackingService/', error: 'CDS compilation failed\n" +
+  'ShipmentTracking/srv/service.cds:7:45-59: Error: No artifact has been found with name “TrackingRecord” (in entity:“shipmenttrackingService.TrackingRecords”)\n' +
+  'ShipmentTracking/srv/service.cds:11:37-39: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Vendors”)\n' +
+  'ShipmentTracking/srv/service.cds:14:42-44: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.FreightTypes”)\n' +
+  'ShipmentTracking/srv/service.cds:17:45-47: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.ShipmentMethods”)\n' +
+  'ShipmentTracking/srv/service.cds:20:40-42: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Containers”)\n' +
+  'ShipmentTracking/srv/service.cds:23:38-40: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Invoices”)\n' +
+  'ShipmentTracking/srv/service.cds:26:45-47: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.FreightInvoices”)\n' +
+  "ShipmentTracking/srv/service.cds:29:35-37: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Ports”)'}"
+2024-09-19 09:00:27.878 [error] Error writing config to manifest and changes for /home/user/ShipmentTracking. Error was:  "Error: Error: Error while reading CAP service metadata. Path: '/home/user/ShipmentTracking', service uri: '/service/shipmenttrackingService/', error: 'CDS compilation failed\n" +
+  'ShipmentTracking/srv/service.cds:7:45-59: Error: No artifact has been found with name “TrackingRecord” (in entity:“shipmenttrackingService.TrackingRecords”)\n' +
+  'ShipmentTracking/srv/service.cds:11:37-39: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Vendors”)\n' +
+  'ShipmentTracking/srv/service.cds:14:42-44: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.FreightTypes”)\n' +
+  'ShipmentTracking/srv/service.cds:17:45-47: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.ShipmentMethods”)\n' +
+  'ShipmentTracking/srv/service.cds:20:40-42: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Containers”)\n' +
+  'ShipmentTracking/srv/service.cds:23:38-40: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Invoices”)\n' +
+  'ShipmentTracking/srv/service.cds:26:45-47: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.FreightInvoices”)\n' +
+  "ShipmentTracking/srv/service.cds:29:35-37: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Ports”)'}"
+2024-09-19 09:00:54.839 [error] Error generating schemas project '/home/user/ShipmentTracking'. Error was:  "Error: Error while reading CAP service metadata. Path: '/home/user/ShipmentTracking', service uri: '/service/shipmenttrackingService/', error: 'CDS compilation failed\n" +
+  'ShipmentTracking/srv/service.cds:1:26-28: Error: Artifact “shippingregister.db” has not been found (in using:“db”)\n' +
+  'ShipmentTracking/srv/service.cds:7:45-59: Error: No artifact has been found with name “TrackingRecord” (in entity:“shipmenttrackingService.TrackingRecords”)\n' +
+  'ShipmentTracking/srv/service.cds:11:37-39: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Vendors”)\n' +
+  'ShipmentTracking/srv/service.cds:14:42-44: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.FreightTypes”)\n' +
+  'ShipmentTracking/srv/service.cds:17:45-47: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.ShipmentMethods”)\n' +
+  'ShipmentTracking/srv/service.cds:20:40-42: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Containers”)\n' +
+  'ShipmentTracking/srv/service.cds:23:38-40: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Invoices”)\n' +
+  'ShipmentTracking/srv/service.cds:26:45-47: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.FreightInvoices”)\n' +
+  "ShipmentTracking/srv/service.cds:29:35-37: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Ports”)'}"
+2024-09-19 09:00:54.839 [error] Error writing config to manifest and changes for /home/user/ShipmentTracking. Error was:  "Error: Error: Error while reading CAP service metadata. Path: '/home/user/ShipmentTracking', service uri: '/service/shipmenttrackingService/', error: 'CDS compilation failed\n" +
+  'ShipmentTracking/srv/service.cds:1:26-28: Error: Artifact “shippingregister.db” has not been found (in using:“db”)\n' +
+  'ShipmentTracking/srv/service.cds:7:45-59: Error: No artifact has been found with name “TrackingRecord” (in entity:“shipmenttrackingService.TrackingRecords”)\n' +
+  'ShipmentTracking/srv/service.cds:11:37-39: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Vendors”)\n' +
+  'ShipmentTracking/srv/service.cds:14:42-44: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.FreightTypes”)\n' +
+  'ShipmentTracking/srv/service.cds:17:45-47: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.ShipmentMethods”)\n' +
+  'ShipmentTracking/srv/service.cds:20:40-42: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Containers”)\n' +
+  'ShipmentTracking/srv/service.cds:23:38-40: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Invoices”)\n' +
+  'ShipmentTracking/srv/service.cds:26:45-47: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.FreightInvoices”)\n' +
+  "ShipmentTracking/srv/service.cds:29:35-37: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Ports”)'}"
+2024-09-19 09:00:59.447 [error] Error generating schemas project '/home/user/ShipmentTracking'. Error was:  "Error: Error while reading CAP service metadata. Path: '/home/user/ShipmentTracking', service uri: '/service/shipmenttrackingService/', error: 'CDS compilation failed\n" +
+  'ShipmentTracking/srv/service.cds:7:45-59: Error: No artifact has been found with name “TrackingRecord” (in entity:“shipmenttrackingService.TrackingRecords”)\n' +
+  'ShipmentTracking/srv/service.cds:11:37-39: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Vendors”)\n' +
+  'ShipmentTracking/srv/service.cds:14:42-44: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.FreightTypes”)\n' +
+  'ShipmentTracking/srv/service.cds:17:45-47: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.ShipmentMethods”)\n' +
+  'ShipmentTracking/srv/service.cds:20:40-42: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Containers”)\n' +
+  'ShipmentTracking/srv/service.cds:23:38-40: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Invoices”)\n' +
+  'ShipmentTracking/srv/service.cds:26:45-47: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.FreightInvoices”)\n' +
+  "ShipmentTracking/srv/service.cds:29:35-37: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Ports”)'}"
+2024-09-19 09:00:59.447 [error] Error writing config to manifest and changes for /home/user/ShipmentTracking. Error was:  "Error: Error: Error while reading CAP service metadata. Path: '/home/user/ShipmentTracking', service uri: '/service/shipmenttrackingService/', error: 'CDS compilation failed\n" +
+  'ShipmentTracking/srv/service.cds:7:45-59: Error: No artifact has been found with name “TrackingRecord” (in entity:“shipmenttrackingService.TrackingRecords”)\n' +
+  'ShipmentTracking/srv/service.cds:11:37-39: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Vendors”)\n' +
+  'ShipmentTracking/srv/service.cds:14:42-44: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.FreightTypes”)\n' +
+  'ShipmentTracking/srv/service.cds:17:45-47: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.ShipmentMethods”)\n' +
+  'ShipmentTracking/srv/service.cds:20:40-42: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Containers”)\n' +
+  'ShipmentTracking/srv/service.cds:23:38-40: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Invoices”)\n' +
+  'ShipmentTracking/srv/service.cds:26:45-47: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.FreightInvoices”)\n' +
+  "ShipmentTracking/srv/service.cds:29:35-37: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Ports”)'}"
+2024-09-19 09:01:44.680 [error] Error generating schemas project '/home/user/ShipmentTracking'. Error was:  "Error: Error while reading CAP service metadata. Path: '/home/user/ShipmentTracking', service uri: '/service/shipmenttrackingService/', error: 'CDS compilation failed\n" +
+  'ShipmentTracking/srv/service.cds:7:45-59: Error: No artifact has been found with name “TrackingRecord” (in entity:“shipmenttrackingService.TrackingRecords”)\n' +
+  'ShipmentTracking/srv/service.cds:11:37-39: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Vendors”)\n' +
+  'ShipmentTracking/srv/service.cds:14:42-44: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.FreightTypes”)\n' +
+  'ShipmentTracking/srv/service.cds:17:45-47: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.ShipmentMethods”)\n' +
+  'ShipmentTracking/srv/service.cds:20:40-42: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Containers”)\n' +
+  'ShipmentTracking/srv/service.cds:23:38-40: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Invoices”)\n' +
+  'ShipmentTracking/srv/service.cds:26:45-47: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.FreightInvoices”)\n' +
+  "ShipmentTracking/srv/service.cds:29:35-37: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Ports”)'}"
+2024-09-19 09:01:44.680 [error] Error writing config to manifest and changes for /home/user/ShipmentTracking. Error was:  "Error: Error: Error while reading CAP service metadata. Path: '/home/user/ShipmentTracking', service uri: '/service/shipmenttrackingService/', error: 'CDS compilation failed\n" +
+  'ShipmentTracking/srv/service.cds:7:45-59: Error: No artifact has been found with name “TrackingRecord” (in entity:“shipmenttrackingService.TrackingRecords”)\n' +
+  'ShipmentTracking/srv/service.cds:11:37-39: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Vendors”)\n' +
+  'ShipmentTracking/srv/service.cds:14:42-44: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.FreightTypes”)\n' +
+  'ShipmentTracking/srv/service.cds:17:45-47: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.ShipmentMethods”)\n' +
+  'ShipmentTracking/srv/service.cds:20:40-42: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Containers”)\n' +
+  'ShipmentTracking/srv/service.cds:23:38-40: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Invoices”)\n' +
+  'ShipmentTracking/srv/service.cds:26:45-47: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.FreightInvoices”)\n' +
+  "ShipmentTracking/srv/service.cds:29:35-37: Error: No artifact has been found with name “sr” (in entity:“shipmenttrackingService.Ports”)'}"
+2024-09-19 09:02:02.296 [error] Error generating schemas project '/home/user/ShipmentTracking'. Error was:  "Error: Error while reading CAP service metadata. Path: '/home/user/ShipmentTracking', service uri: '/service/shipmenttrackingService/', error: 'CDS compilation failed\n" +
+  "ShipmentTracking/srv/service.cds:1:26-28: Error: Artifact “shippingregister.db” has not been found (in using:“sr”)'}"
+2024-09-19 09:02:02.296 [error] Error writing config to manifest and changes for /home/user/ShipmentTracking. Error was:  "Error: Error: Error while reading CAP service metadata. Path: '/home/user/ShipmentTracking', service uri: '/service/shipmenttrackingService/', error: 'CDS compilation failed\n" +
+  "ShipmentTracking/srv/service.cds:1:26-28: Error: Artifact “shippingregister.db” has not been found (in using:“sr”)'}"
+2024-09-19 09:02:19.975 [error] Error generating schemas project '/home/user/ShipmentTracking'. Error was:  `Error: Error while reading CAP service metadata. Path: '/home/user/ShipmentTracking', service uri: '/service/shipmenttrackingService/', error: 'Error: Service for uri: '/service/shipmenttrackingService/' not found. Available services: [{"name":"shipmenttrackingService","urlPath":"odata/v4/shipmenttracking/","runtime":"Node.js"}]'}`
+2024-09-19 09:02:19.975 [error] Error writing config to manifest and changes for /home/user/ShipmentTracking. Error was:  `Error: Error: Error while reading CAP service metadata. Path: '/home/user/ShipmentTracking', service uri: '/service/shipmenttrackingService/', error: 'Error: Service for uri: '/service/shipmenttrackingService/' not found. Available services: [{"name":"shipmenttrackingService","urlPath":"odata/v4/shipmenttracking/","runtime":"Node.js"}]'}`

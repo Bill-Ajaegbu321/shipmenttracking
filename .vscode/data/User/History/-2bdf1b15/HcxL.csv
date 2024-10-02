@@ -1,0 +1,3 @@
+ID;InvoiceNumber;Supplier_ID;InvoiceDate;InvoiceValue
+1;95062382;BELL DE;2021-12-29;245.29;Invoice 1 Description
+2;95062400 95062401 95062402;BELL DE;2022-01-02;27972.41;Invoice 2 Description

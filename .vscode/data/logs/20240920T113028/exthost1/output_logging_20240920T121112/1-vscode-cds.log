@@ -1,0 +1,95 @@
+[2024-09-20T12:11:13.719Z] Activating SAPSE.vscode-cds...
+[2024-09-20T12:11:13.880Z] starting lsp '/extbin/local/openvscode-server/extensions/vscode-cds-8.0.2/node_modules/@sap/cds-lsp'...
+[2024-09-20T12:11:14.057Z] finished starting lsp '/extbin/local/openvscode-server/extensions/vscode-cds-8.0.2/node_modules/@sap/cds-lsp' in 177ms
+Error parsing '/home/user/ShipmentTracking/package.json': Expected ',' or '}' after property value in JSON at position 889
+Error parsing '/home/user/ShipmentTracking/package.json': Expected ',' or '}' after property value in JSON at position 889
+Error parsing '/home/user/ShipmentTracking/package.json': Expected ',' or '}' after property value in JSON at position 889
+Error parsing '/home/user/ShipmentTracking/package.json': Expected ',' or '}' after property value in JSON at position 889
+Error parsing '/home/user/ShipmentTracking/package.json': Expected ',' or '}' after property value in JSON at position 889
+Error parsing '/home/user/ShipmentTracking/package.json': Expected ',' or '}' after property value in JSON at position 889
+Error parsing '/home/user/ShipmentTracking/package.json': Expected ',' or '}' after property value in JSON at position 889
+Error parsing '/home/user/ShipmentTracking/package.json': Expected ',' or '}' after property value in JSON at position 889
+Error parsing '/home/user/ShipmentTracking/package.json': Expected double-quoted property name in JSON at position 975
+Error parsing '/home/user/ShipmentTracking/package.json': Expected double-quoted property name in JSON at position 974
+Error parsing '/home/user/ShipmentTracking/package.json': Expected double-quoted property name in JSON at position 974
+Error parsing '/home/user/ShipmentTracking/package.json': Expected double-quoted property name in JSON at position 974
+Error parsing '/home/user/ShipmentTracking/package.json': Expected double-quoted property name in JSON at position 974
+Error parsing '/home/user/ShipmentTracking/package.json': Expected double-quoted property name in JSON at position 974
+Error parsing '/home/user/ShipmentTracking/package.json': Expected double-quoted property name in JSON at position 974
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected token '}', ..."eshold": 
+},
+  "sapu"... is not valid JSON
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected token '}', ..."eshold": 
+}
+  "sapux"... is not valid JSON
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected token '}', ..."eshold": 
+}
+}
+  "sap"... is not valid JSON
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected token '}', ..."eshold": 
+}
+}
+  "sap"... is not valid JSON
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected token '}', ..."eshold": 
+}
+
+  "sapu"... is not valid JSON
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected token '}', ..."eshold": 
+}
+
+  "sapu"... is not valid JSON
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected token '}', ..."eshold": 
+},
+
+  "sap"... is not valid JSON
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected token '}', ..."old": 
+  
+},
+
+  "sap"... is not valid JSON
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected token '}', ..."eshold": 
+}
+},
+
+  "s"... is not valid JSON
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected token '}', ..."eshold": 
+}}
+},
+
+  ""... is not valid JSON
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected token '}', ..."eshold": 
+}
+}
+},
+
+  "... is not valid JSON
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected token '}', ..."eshold": 
+}
+},
+
+  "s"... is not valid JSON
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected token '}', ..."eshold": 
+},
+
+  "sap"... is not valid JSON
+Error parsing '/home/user/ShipmentTracking/package.json': Expected double-quoted property name in JSON at position 933
+Error parsing '/home/user/ShipmentTracking/package.json': Expected double-quoted property name in JSON at position 934
+Error parsing '/home/user/ShipmentTracking/package.json': Expected double-quoted property name in JSON at position 969
+Error parsing '/home/user/ShipmentTracking/package.json': Expected double-quoted property name in JSON at position 969
+Error parsing '/home/user/ShipmentTracking/package.json': Expected double-quoted property name in JSON at position 969
+Error parsing '/home/user/ShipmentTracking/package.json': Expected ',' or '}' after property value in JSON at position 996
+Error parsing '/home/user/ShipmentTracking/package.json': Expected double-quoted property name in JSON at position 1046
+Error parsing '/home/user/ShipmentTracking/package.json': Expected ',' or '}' after property value in JSON at position 1078
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected non-whitespace character after JSON at position 1103
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected non-whitespace character after JSON at position 1103
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected non-whitespace character after JSON at position 1103
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected non-whitespace character after JSON at position 1103
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected non-whitespace character after JSON at position 1103
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected non-whitespace character after JSON at position 1103
+Error parsing '/home/user/ShipmentTracking/package.json': Expected double-quoted property name in JSON at position 933
+Corrupt .properties file: /home/user/ShipmentTracking/default-env.json.properties
+Corrupt .properties file: /home/user/ShipmentTracking/default-env.json.properties
+Corrupt .properties file: /home/user/ShipmentTracking/default-env.json.properties
+Corrupt .properties file: /home/user/ShipmentTracking/default-env.json.properties
+Corrupt .properties file: /home/user/ShipmentTracking/default-env.json.properties
+Corrupt .properties file: /home/user/ShipmentTracking/default-env.json.properties

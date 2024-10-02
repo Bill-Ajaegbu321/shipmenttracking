@@ -1,0 +1,36 @@
+{
+  "name": "ShipmentTracking",
+  "version": "1.0.0",
+  "description": "A simple CAP project.",
+  "repository": "<Add your repository here>",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@sap/cds": "^8",
+    "express": "^4"
+  },
+  "devDependencies": {
+    "@cap-js/sqlite": "^1",
+    "@cap-js/cds-types": "^0.6",
+    "@sap/ux-specification": "1.124.1"
+  },
+  "scripts": {
+    "start": "cds-serve",
+    "watch-trackingrecord": "cds watch --open trackingrecord/webapp/index.html?sap-ui-xx-viewCache=false"
+  },
+
+  "cds": {
+    "requires": {
+      "[sqlite]": {
+        "db": {
+          "kind": "sqlite",
+          "impl": "@cap-js/sqlite",
+          "credentials": {
+            "url": "db.sqlite"
+          }
+        }
+      },
+  "sapux": [
+    "app/trackingrecord"
+  ]
+}

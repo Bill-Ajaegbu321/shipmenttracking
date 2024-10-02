@@ -1,0 +1,14 @@
+2024-09-20 08:21:50.661 [error] Error: EEXIST: file already exists, open '/home/user/.vscode/data/User/workspaceStorage/-62c10358/vscode.lock'
+2024-09-20 08:53:30.007 [error] Canceled: Canceled
+	at new A (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:143:50615)
+	at y.U (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:150:6007)
+	at z.<computed>.M.charCodeAt.R.CharCode.DollarSign.z.<computed> (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:150:3091)
+	at d.g (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:153:199939)
+	at d.executeCommand (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:153:199377)
+	at I.registerCommand.description (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:153:198701)
+	at d.h (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:153:200478)
+	at d.g (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:153:199470)
+	at d.executeCommand (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:153:199377)
+	at Object.executeCommand (/extbin/local/openvscode-server/out/vs/workbench/api/node/extensionHostProcess.js:163:22742)
+	at ConnectionManagerPlugin.changeTextEditorHandler (/extbin/local/openvscode-server/extensions/mtxr.sqltools-0.28.1/dist/extension.js:1:129863)
+	at ConnectionManagerPlugin.updateAttachedConnectionsMap (/extbin/local/openvscode-server/extensions/mtxr.sqltools-0.28.1/dist/extension.js:1:114008) setContext undefined

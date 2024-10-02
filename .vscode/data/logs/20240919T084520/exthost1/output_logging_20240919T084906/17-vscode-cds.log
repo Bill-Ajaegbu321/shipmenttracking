@@ -1,0 +1,15 @@
+[2024-09-19T08:49:16.581Z] Activating SAPSE.vscode-cds...
+[2024-09-19T08:49:16.736Z] starting lsp '/extbin/local/openvscode-server/extensions/vscode-cds-8.0.2/node_modules/@sap/cds-lsp'...
+[2024-09-19T08:49:16.911Z] finished starting lsp '/extbin/local/openvscode-server/extensions/vscode-cds-8.0.2/node_modules/@sap/cds-lsp' in 175ms
+Error parsing '/home/user/ShipmentTracking/package.json': Expected ',' or '}' after property value in JSON at position 798
+Error parsing '/home/user/ShipmentTracking/package.json': Expected double-quoted property name in JSON at position 759
+Error parsing '/home/user/ShipmentTracking/package.json': Expected double-quoted property name in JSON at position 759
+Error parsing '/home/user/ShipmentTracking/package.json': Expected double-quoted property name in JSON at position 759
+Error parsing '/home/user/ShipmentTracking/package.json': Expected double-quoted property name in JSON at position 759
+Error parsing '/home/user/ShipmentTracking/package.json': Expected double-quoted property name in JSON at position 894
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected non-whitespace character after JSON at position 1020
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected non-whitespace character after JSON at position 953
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected non-whitespace character after JSON at position 953
+Error parsing '/home/user/ShipmentTracking/package.json': Unexpected non-whitespace character after JSON at position 948
+[2024-09-19T12:11:29.248Z] stopping lsp '/extbin/local/openvscode-server/extensions/vscode-cds-8.0.2/node_modules/@sap/cds-lsp'... 
+[2024-09-19T12:11:29.273Z] finished stopping lsp '/extbin/local/openvscode-server/extensions/vscode-cds-8.0.2/node_modules/@sap/cds-lsp' in 25ms

@@ -1,0 +1,17 @@
+{
+    "VCAP_SERVICES": {
+      "postgresql": [
+        {
+          "name": "my-supabase-db",
+          "credentials": {
+            "host": "aws-0-eu-west-2.pooler.supabase.com",
+            "port": 6543,
+            "database": "postgres",
+            "user": "postgres.bcdooaudnwqckshahegm",
+            "password": "WhatKindEkse14!",
+            "ssl": true
+          }
+        }
+      ]
+    }
+  }

@@ -1,0 +1,48 @@
+{
+  "name": "shipment_tracking",
+  "version": "1.0.0",
+  "description": "A simple CAP project.",
+  "repository": "<Add your repository here>",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@cap-js/postgres": "^1.10.0",
+    "@sap/cds": "^8.2.2",
+    "express": "^4"
+  },
+  "devDependencies": {
+    "@cap-js/cds-types": "^0.6",
+    "@cap-js/sqlite": "^1",
+    "@sap/ux-specification": "1.124.1"
+  },
+  "scripts": {
+    "start": "cds-serve",
+    "watch-trackingrecord": "cds watch --open trackingrecord/webapp/index.html?sap-ui-xx-viewCache=false"
+  },
+  "cds": {
+    "requires": {
+      "db": {
+        "kind": "postgres",
+        "credentials": {
+          "host": "aws-0-eu-west-2.pooler.supabase.com",
+          "port": "6543",
+          "user": "postgres.bcdooaudnwqckshahegm",
+          "password": "WhatKindEkse14!",
+          "database": "postgres",
+          "pgbouncer":true
+        }
+      }
+    }
+  },
+  "pool": {
+    "max": 10,         
+    "idleTimeoutMillis": 30000 
+  },
+  "statement_timeout": 30000,  
+  "prepareThreshold": 
+},
+
+  "sapux": [
+    "app/trackingrecord"
+  ]
+
